@@ -1,0 +1,7 @@
+{
+  "name": "vanloo-harper-bot",
+  "version": "1.0.0",
+  "main": "api/webhook.js",
+  "license": "MIT",
+  "dependencies": {}
+}
